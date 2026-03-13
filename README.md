@@ -198,7 +198,7 @@ python scraper/linkedin_scraper.py -q "Adya AI" -p 1
 python scraper/linkedin_scraper.py -q "Microsoft" -p 3
 
 # Search for posts mentioning a specific person
-python scraper/linkedin_scraper.py -q "Pratyush" -p 2
+python scraper/linkedin_scraper.py -q "Shayak Mazumder" -p 2
 ```
 
 Results are saved to the same SQLite database and will appear in the dashboard the next time it is opened.
